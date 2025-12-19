@@ -1,6 +1,8 @@
 # DoDoDual 🕊️⚡
 
 **DoDoDual** is an efficient, two-stage deep learning framework for music game chart generation, currently specifically targeting **osu!mania**. Developed by **dodobird1**, it leverages a decoupled architecture to first detect rhythmic onsets and then generate complex patterns, making the chart generation process both stable and high-quality.
+> ⚠️ **USE THIS MODEL RESPONSIBLY**  
+> Disclose any use of AI in the creation of beatmaps. The creator of this model is not responsible for any consequences caused by using this model, especially for plagiarism or any kind of violation of copyright.
 
 ## 🌟 Overview
 
