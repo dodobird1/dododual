@@ -87,7 +87,7 @@ python infer/infer.py --audio "your_song.mp3" \
 
 ## 📄 License
 
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE.md) file for details.
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 ---
 
